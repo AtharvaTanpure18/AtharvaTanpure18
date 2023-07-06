@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Atharva Tanpure</h1>
-<h3 align="center">A passionate AI developer from India</h3>
+<h3 align="center">A passionate Software Developer and Undergraduate Student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvatanpure18&label=Profile%20views&color=d36912&style=flat" alt="atharvatanpure18" /> </p>
 
